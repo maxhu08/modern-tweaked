@@ -4,7 +4,7 @@ Modern Tweaked builds on VS Code's Modern theme, refining colors and contrast to
 
 ## Showcase
 
-![Modern Tweaked theme showcase](https://raw.githubusercontent.com/maxhu08/modern-tweaked/master/images/showcase.png)
+![Modern Tweaked theme showcase](images/showcase.png)
 
 ## Included theme
 
