@@ -1,7 +1,7 @@
 {
   "name": "modern-tweaked",
   "displayName": "Modern Tweaked",
-  "description": "TODO: add description",
+  "description": "A design-focused VS Code theme extension crafted for a clean, modern, and comfortable coding experience.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.103.0"
