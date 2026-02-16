@@ -1,6 +1,6 @@
 # Modern Tweaked
 
-Modern Tweaked is a design-focused Visual Studio Code theme extension crafted for a clean, modern, and comfortable coding experience.
+Modern Tweaked builds on VS Code's Modern theme, refining colors and contrast to make it cleaner, more polished, and more comfortable for everyday coding.
 
 ## Included theme
 
