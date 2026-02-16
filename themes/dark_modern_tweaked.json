@@ -1,0 +1,41 @@
+{
+  "$schema": "vscode://schemas/color-theme",
+  "name": "Dark Modern Tweaked",
+  "include": "./dark_modern.json",
+  "colors": {
+    // Matches the editor background to the selected Tab Bar background color.
+    "editor.background": "#181818",
+    // Makes the Command Palette container match the editor background.
+    "quickInput.background": "#181818",
+    // Sets the Command Palette input box to a slightly elevated tone for contrast.
+    "input.background": "#232323",
+    // Removes contrast jump between active tab and editor area.
+    "tab.activeBackground": "#181818",
+    // Hides the active tab border highlight for a flatter look.
+    "tab.activeBorder": "#181818",
+    // Aligns the command center bar with the rest of the top chrome.
+    "commandCenter.background": "#181818",
+    // Prevents hover/active command center state from changing color.
+    "commandCenter.activeBackground": "#181818",
+    // Removes default gradient/shadow edge from scrollbars.
+    "scrollbar.shadow": "#00000000",
+    // Matches the divider beside the scrollbar to the tab bar/editor separator line.
+    "editorOverviewRuler.border": "#2B2B2B",
+    // Removes sticky scroll drop shadow to keep the UI flat.
+    "editorStickyScroll.shadow": "#00000000",
+    // Hides active tree indent guide lines.
+    "tree.indentGuidesStroke": "#00000000",
+    // Hides inactive tree indent guide lines.
+    "tree.inactiveIndentGuidesStroke": "#00000000"
+  },
+  "tokenColors": [
+    {
+      // Dims code comments so they stay readable without competing with active code.
+      "name": "Comments",
+      "scope": "comment",
+      "settings": {
+        "foreground": "#707070"
+      }
+    }
+  ]
+}

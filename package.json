@@ -1,0 +1,21 @@
+{
+  "name": "modern-tweaked",
+  "displayName": "Modern Tweaked",
+  "description": "TODO: add description",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.103.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Modern Tweaked",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark_modern_tweaked.json"
+      }
+    ]
+  }
+}
