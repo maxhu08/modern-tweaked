@@ -2,6 +2,10 @@
 
 Modern Tweaked builds on VS Code's Modern theme, refining colors and contrast to make it cleaner, more polished, and more comfortable for everyday coding.
 
+## Showcase
+
+![Modern Tweaked theme showcase](images/showcase.png)
+
 ## Included theme
 
 - `Dark Modern Tweaked`
