@@ -3,6 +3,12 @@
   "displayName": "Modern Tweaked",
   "description": "A design-focused VS Code theme extension crafted for a clean, modern, and comfortable coding experience.",
   "version": "0.0.1",
+  "publisher": "maxhu",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maxhu08/modern-tweaked.git"
+  },
   "engines": {
     "vscode": "^1.103.0"
   },
