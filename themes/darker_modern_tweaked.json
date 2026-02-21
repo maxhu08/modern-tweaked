@@ -61,6 +61,8 @@
     "editorHoverWidget.background": "#0a0a0a",
     // Makes autocomplete/suggest popup match the editor background.
     "editorSuggestWidget.background": "#0a0a0a",
+    // Makes the floating debug toolbar match the editor background.
+    "debugToolBar.background": "#0a0a0a",
     // Makes Go to Definition / Peek editor background match the editor.
     "peekViewEditor.background": "#0a0a0a",
     // Makes Go to Definition / Peek results background match the editor.
