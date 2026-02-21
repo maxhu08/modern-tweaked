@@ -21,10 +21,16 @@
     "tab.activeBackground": "#181818",
     // Hides the active tab border highlight for a flatter look.
     "tab.activeBorder": "#181818",
+    // Keeps the active tab background unchanged when the window is unfocused.
+    "tab.unfocusedActiveBackground": "#181818",
+    // Keeps tab hover color unchanged when the window is unfocused.
+    "tab.unfocusedHoverBackground": "#181818",
     // Aligns the command center bar with the rest of the top chrome.
     "commandCenter.background": "#181818",
     // Prevents hover/active command center state from changing color.
     "commandCenter.activeBackground": "#181818",
+    // Keeps the title bar color unchanged when the window is unfocused.
+    "titleBar.inactiveBackground": "#181818",
     // Removes default gradient/shadow edge from scrollbars.
     "scrollbar.shadow": "#00000000",
     // Matches the divider beside the scrollbar to the tab bar/editor separator line.
