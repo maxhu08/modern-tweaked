@@ -61,6 +61,12 @@
     "editorHoverWidget.background": "#0a0a0a",
     // Makes autocomplete/suggest popup match the editor background.
     "editorSuggestWidget.background": "#0a0a0a",
+    // Makes Go to Definition / Peek editor background match the editor.
+    "peekViewEditor.background": "#0a0a0a",
+    // Makes Go to Definition / Peek results background match the editor.
+    "peekViewResult.background": "#0a0a0a",
+    // Makes Go to Definition / Peek title bar background match the editor.
+    "peekViewTitle.background": "#0a0a0a",
     // Removes contrast jump between active tab and editor area.
     "tab.activeBackground": "#0a0a0a",
     // Hides the active tab border highlight for a flatter look.

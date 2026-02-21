@@ -15,6 +15,12 @@
     "editorHoverWidget.background": "#F8F8F8",
     // Makes autocomplete/suggest popup match the editor background.
     "editorSuggestWidget.background": "#F8F8F8",
+    // Makes Go to Definition / Peek editor background match the editor.
+    "peekViewEditor.background": "#F8F8F8",
+    // Makes Go to Definition / Peek results background match the editor.
+    "peekViewResult.background": "#F8F8F8",
+    // Makes Go to Definition / Peek title bar background match the editor.
+    "peekViewTitle.background": "#F8F8F8",
     // Sets the Command Palette input box to a slightly elevated tone for contrast.
     "input.background": "#FFFFFF",
     // Removes contrast jump between active tab and editor area.
