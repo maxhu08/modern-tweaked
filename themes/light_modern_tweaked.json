@@ -7,8 +7,14 @@
     "editor.background": "#F8F8F8",
     // Makes the Command Palette container match the editor background.
     "quickInput.background": "#F8F8F8",
+    // Keeps quick input border aligned with theme dividers.
+    "quickInput.border": "#E5E5E5",
     // Makes right-click context menus match the editor background.
     "menu.background": "#F8F8F8",
+    // Keeps menu borders aligned with theme dividers.
+    "menu.border": "#E5E5E5",
+    // Keeps dropdown option lists on the same surface as the editor.
+    "dropdown.listBackground": "#F8F8F8",
     // Makes editor popups (find/rename/inline widgets) match the editor background.
     "editorWidget.background": "#F8F8F8",
     // Makes hover popups match the editor background.
@@ -17,6 +23,8 @@
     "editorSuggestWidget.background": "#F8F8F8",
     // Makes the floating debug toolbar match the editor background.
     "debugToolBar.background": "#F8F8F8",
+    // Matches peek editor gutter to the editor background.
+    "peekViewEditorGutter.background": "#F8F8F8",
     // Makes Go to Definition / Peek editor background match the editor.
     "peekViewEditor.background": "#F8F8F8",
     // Makes Go to Definition / Peek results background match the editor.
@@ -27,18 +35,26 @@
     "input.background": "#FFFFFF",
     // Removes contrast jump between active tab and editor area.
     "tab.activeBackground": "#F8F8F8",
+    // Keeps hovered tabs on the same surface as the editor.
+    "tab.hoverBackground": "#F8F8F8",
     // Hides the active tab border highlight for a flatter look.
     "tab.activeBorder": "#F8F8F8",
     // Keeps the active tab background unchanged when the window is unfocused.
     "tab.unfocusedActiveBackground": "#F8F8F8",
     // Keeps tab hover color unchanged when the window is unfocused.
     "tab.unfocusedHoverBackground": "#F8F8F8",
+    // Keeps unfocused active-tab border on the same surface tone.
+    "tab.unfocusedActiveBorder": "#F8F8F8",
     // Aligns the command center bar with the rest of the top chrome.
     "commandCenter.background": "#F8F8F8",
     // Prevents hover/active command center state from changing color.
     "commandCenter.activeBackground": "#F8F8F8",
     // Keeps the title bar color unchanged when the window is unfocused.
     "titleBar.inactiveBackground": "#F8F8F8",
+    // Keeps notifications center header on the same editor-like surface.
+    "notificationCenterHeader.background": "#F8F8F8",
+    // Keeps notifications background on the same editor-like surface.
+    "notifications.background": "#F8F8F8",
     // Removes default gradient/shadow edge from scrollbars.
     "scrollbar.shadow": "#00000000",
     // Matches the divider beside the scrollbar to the tab bar/editor separator line.
