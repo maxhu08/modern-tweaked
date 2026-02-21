@@ -7,6 +7,14 @@
     "editor.background": "#181818",
     // Makes the Command Palette container match the editor background.
     "quickInput.background": "#181818",
+    // Makes right-click context menus match the editor background.
+    "menu.background": "#181818",
+    // Makes editor popups (find/rename/inline widgets) match the editor background.
+    "editorWidget.background": "#181818",
+    // Makes hover popups match the editor background.
+    "editorHoverWidget.background": "#181818",
+    // Makes autocomplete/suggest popup match the editor background.
+    "editorSuggestWidget.background": "#181818",
     // Sets the Command Palette input box to a slightly elevated tone for contrast.
     "input.background": "#232323",
     // Removes contrast jump between active tab and editor area.
