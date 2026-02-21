@@ -1,7 +1,7 @@
 {
   "$schema": "vscode://schemas/color-theme",
   "name": "Light Modern Tweaked",
-  "include": "./light_modern.json",
+  "include": "./default/light/light_modern.json",
   "colors": {
     // Matches the editor background to the selected Tab Bar background color.
     "editor.background": "#F8F8F8",

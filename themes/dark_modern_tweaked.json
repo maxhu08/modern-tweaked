@@ -1,7 +1,7 @@
 {
   "$schema": "vscode://schemas/color-theme",
   "name": "Dark Modern Tweaked",
-  "include": "./dark_modern.json",
+  "include": "./default/dark/dark_modern.json",
   "colors": {
     // Matches the editor background to the selected Tab Bar background color.
     "editor.background": "#181818",
