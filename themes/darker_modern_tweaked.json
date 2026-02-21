@@ -1,0 +1,101 @@
+{
+  "$schema": "vscode://schemas/color-theme",
+  "name": "Darker Modern Tweaked",
+  "include": "./default/dark/dark_modern.json",
+  "colors": {
+    // Uses neutral-950 for the app shell so side chrome matches the editor plane.
+    "activityBar.background": "#0a0a0a",
+    // Keeps shell separators subtle with neutral-900.
+    "activityBar.border": "#171717",
+    // Aligns sidebar pane background with neutral-950.
+    "sideBar.background": "#0a0a0a",
+    // Uses neutral-900 separators for sidebar edges.
+    "sideBar.border": "#171717",
+    // Keeps section headers from drifting to inherited fallback tones.
+    "sideBarSectionHeader.background": "#0a0a0a",
+    "sideBarSectionHeader.border": "#171717",
+    // Aligns bottom panels/terminal container with the darker base.
+    "panel.background": "#0a0a0a",
+    "panel.border": "#171717",
+    "panelInput.border": "#171717",
+    // Keeps tab strip and inactive tabs on neutral-950.
+    "editorGroup.border": "#171717",
+    "editorGroupHeader.tabsBackground": "#0a0a0a",
+    "editorGroupHeader.tabsBorder": "#171717",
+    "tab.border": "#171717",
+    "tab.inactiveBackground": "#0a0a0a",
+    "tab.unfocusedInactiveBackground": "#0a0a0a",
+    // Uses neutral-900 for row interactions (lighter shade requirement).
+    "list.hoverBackground": "#171717",
+    "list.inactiveSelectionBackground": "#171717",
+    "list.activeSelectionBackground": "#171717",
+    "list.focusBackground": "#171717",
+    // Keeps form controls from falling back to brighter dark-modern defaults.
+    "input.background": "#171717",
+    "input.border": "#171717",
+    "dropdown.background": "#171717",
+    "dropdown.border": "#171717",
+    "dropdown.listBackground": "#0a0a0a",
+    "settings.dropdownBackground": "#171717",
+    "settings.dropdownBorder": "#171717",
+    "checkbox.background": "#171717",
+    "checkbox.border": "#171717",
+    // Makes secondary buttons (e.g. Dismiss) match the neutral-900 control tone.
+    "button.secondaryBackground": "#171717",
+    "button.secondaryHoverBackground": "#171717",
+    // Normalizes title/status bars so the top and bottom chrome match.
+    "titleBar.activeBackground": "#0a0a0a",
+    "titleBar.border": "#171717",
+    "statusBar.background": "#0a0a0a",
+    "statusBar.border": "#171717",
+    "statusBar.noFolderBackground": "#0a0a0a",
+    // Matches the editor background to the selected Tab Bar background color.
+    "editor.background": "#0a0a0a",
+    // Makes the Command Palette container match the editor background.
+    "quickInput.background": "#0a0a0a",
+    // Makes right-click context menus match the editor background.
+    "menu.background": "#0a0a0a",
+    // Makes editor popups (find/rename/inline widgets) match the editor background.
+    "editorWidget.background": "#0a0a0a",
+    // Makes hover popups match the editor background.
+    "editorHoverWidget.background": "#0a0a0a",
+    // Makes autocomplete/suggest popup match the editor background.
+    "editorSuggestWidget.background": "#0a0a0a",
+    // Removes contrast jump between active tab and editor area.
+    "tab.activeBackground": "#0a0a0a",
+    // Hides the active tab border highlight for a flatter look.
+    "tab.activeBorder": "#0a0a0a",
+    // Keeps the active tab background unchanged when the window is unfocused.
+    "tab.unfocusedActiveBackground": "#0a0a0a",
+    // Keeps tab hover color unchanged when the window is unfocused.
+    "tab.unfocusedHoverBackground": "#0a0a0a",
+    // Aligns the command center bar with the rest of the top chrome.
+    "commandCenter.background": "#0a0a0a",
+    // Prevents hover/active command center state from changing color.
+    "commandCenter.activeBackground": "#0a0a0a",
+    // Keeps inactive title text aligned with the base dark-modern contrast.
+    "titleBar.inactiveForeground": "#9d9d9d",
+    // Keeps the title bar color unchanged when the window is unfocused.
+    "titleBar.inactiveBackground": "#0a0a0a",
+    // Removes default gradient/shadow edge from scrollbars.
+    "scrollbar.shadow": "#00000000",
+    // Matches the divider beside the scrollbar to the tab bar/editor separator line.
+    "editorOverviewRuler.border": "#171717",
+    // Removes sticky scroll drop shadow to keep the UI flat.
+    "editorStickyScroll.shadow": "#00000000",
+    // Hides active tree indent guide lines.
+    "tree.indentGuidesStroke": "#00000000",
+    // Hides inactive tree indent guide lines.
+    "tree.inactiveIndentGuidesStroke": "#00000000"
+  },
+  "tokenColors": [
+    {
+      // Dims code comments so they stay readable without competing with active code.
+      "name": "Comments",
+      "scope": "comment",
+      "settings": {
+        "foreground": "#707070"
+      }
+    }
+  ]
+}

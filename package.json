@@ -24,6 +24,11 @@
         "path": "./themes/dark_modern_tweaked.json"
       },
       {
+        "label": "Darker Modern Tweaked",
+        "uiTheme": "vs-dark",
+        "path": "./themes/darker_modern_tweaked.json"
+      },
+      {
         "label": "Light Modern Tweaked",
         "uiTheme": "vs",
         "path": "./themes/light_modern_tweaked.json"

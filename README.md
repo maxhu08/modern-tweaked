@@ -9,4 +9,5 @@ Modern Tweaked builds on VS Code's Modern themes, refining colors and contrast t
 ## Included theme
 
 - `Dark Modern Tweaked`
+- `Darker Modern Tweaked`
 - `Light Modern Tweaked`
