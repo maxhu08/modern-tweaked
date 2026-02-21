@@ -1,0 +1,55 @@
+{
+  "$schema": "vscode://schemas/color-theme",
+  "name": "Light Modern Tweaked",
+  "include": "./light_modern.json",
+  "colors": {
+    // Matches the editor background to the selected Tab Bar background color.
+    "editor.background": "#F8F8F8",
+    // Makes the Command Palette container match the editor background.
+    "quickInput.background": "#F8F8F8",
+    // Makes right-click context menus match the editor background.
+    "menu.background": "#F8F8F8",
+    // Makes editor popups (find/rename/inline widgets) match the editor background.
+    "editorWidget.background": "#F8F8F8",
+    // Makes hover popups match the editor background.
+    "editorHoverWidget.background": "#F8F8F8",
+    // Makes autocomplete/suggest popup match the editor background.
+    "editorSuggestWidget.background": "#F8F8F8",
+    // Sets the Command Palette input box to a slightly elevated tone for contrast.
+    "input.background": "#FFFFFF",
+    // Removes contrast jump between active tab and editor area.
+    "tab.activeBackground": "#F8F8F8",
+    // Hides the active tab border highlight for a flatter look.
+    "tab.activeBorder": "#F8F8F8",
+    // Keeps the active tab background unchanged when the window is unfocused.
+    "tab.unfocusedActiveBackground": "#F8F8F8",
+    // Keeps tab hover color unchanged when the window is unfocused.
+    "tab.unfocusedHoverBackground": "#F8F8F8",
+    // Aligns the command center bar with the rest of the top chrome.
+    "commandCenter.background": "#F8F8F8",
+    // Prevents hover/active command center state from changing color.
+    "commandCenter.activeBackground": "#F8F8F8",
+    // Keeps the title bar color unchanged when the window is unfocused.
+    "titleBar.inactiveBackground": "#F8F8F8",
+    // Removes default gradient/shadow edge from scrollbars.
+    "scrollbar.shadow": "#00000000",
+    // Matches the divider beside the scrollbar to the tab bar/editor separator line.
+    "editorOverviewRuler.border": "#E5E5E5",
+    // Removes sticky scroll drop shadow to keep the UI flat.
+    "editorStickyScroll.shadow": "#00000000",
+    // Hides active tree indent guide lines.
+    "tree.indentGuidesStroke": "#00000000",
+    // Hides inactive tree indent guide lines.
+    "tree.inactiveIndentGuidesStroke": "#00000000"
+  },
+  "tokenColors": [
+    {
+      // Dims code comments so they stay readable without competing with active code.
+      "name": "Comments",
+      "scope": "comment",
+      "settings": {
+        "foreground": "#8A8A8A"
+      }
+    }
+  ]
+}
